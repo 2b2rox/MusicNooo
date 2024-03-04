@@ -14,24 +14,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: Music Nooo" //ur yt chanel name
+global.socialm = "GitHub: 2b22rox" //ur github or insta name
+global.location = "Sri Lanka, Western Province, Gampaha" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
+global.botname = 'Music Nooo' //ur bot name
+global.ownernumber = '94716315866' //ur owner number
+global.ownername ='© ʀᴏx⃟ - ᴮᴼᵀ 🇱🇰' //ur owner name
+global.websitex = "https://youtu.be/@MusicNooo"
+global.wagc = "https://whatsapp.com/channel/0029Va5IlaDEAKWBaRVBj72d"
+global.themeemoji = '♠️'
+global.wm = "©Roxy."
+global.botscript = 'https://github.com/2b2rox' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "© ʀᴏx⃟ - ᴮᴼᵀ 🇱🇰\n\n+94716315866"
+global.creator = "94716315866@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["94716315866"] // Premium User
 global.hituet = 0
 
 //bot sett
