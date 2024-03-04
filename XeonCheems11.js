@@ -1786,6 +1786,14 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                 replygcxeon('Bye Everyone 🥺')
                 await XeonBotInc.groupLeave(m.chat)
             break
+	    case 'Hi':
+            case 'hello':
+	    case 'hi'
+                if (!XeonTheCreator) return XeonStickOwner()
+                if (!m.isGroup) return XeonStickGroup()
+                replygcxeon('*Hi Friends. Welcome to Music Nooo Whatsapp*')
+                await XeonBotInc.groupLeave(m.chat)
+            break
             case 'bc':
             case 'broadcast': {
                if (!XeonTheCreator) return XeonStickOwner()
